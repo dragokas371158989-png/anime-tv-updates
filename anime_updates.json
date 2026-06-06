@@ -1,6 +1,644 @@
 {
-  "version": 1,
+  "version": 2,
   "anime": [
+    {
+      "id": 963816,
+      "ru": "Sousou no Frieren: Ougonkyou-hen",
+      "en": "Frieren: Beyond Journey's End - Golden Land Arc",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 962516,
+      "ru": "Dandadan 3rd Season",
+      "en": "Dan Da Dan Season 3",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Science SARU",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1671/154516l.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": 961338,
+      "ru": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 3rd Season",
+      "en": "Shangri-La Frontier Season 3",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "C2C",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1450/156167l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 959873,
+      "ru": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2",
+      "en": "Alya Sometimes Hides Her Feelings in Russian Season 2",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Doga Kobo",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1711/156333l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 958934,
+      "ru": "Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+      "en": "Mashle: Magic and Muscles Season 3",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "A-1 Pictures",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1085/154496l.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 957584,
+      "ru": "Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen",
+      "en": "The Eminence in Shadow: Lost Echoes",
+      "year": "2027",
+      "type": "Фильм",
+      "episodes": "1",
+      "status": "Not yet aired",
+      "studio": "Nexus",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1797/156362l.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 956732,
+      "ru": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Season 2",
+      "en": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat Season 2",
+      "year": "2027",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "SILVER LINK.",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1626/156999l.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance"
+      ]
+    },
+    {
+      "id": 961316,
+      "ru": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "en": "Re:ZERO -Starting Life in Another World- Season 4",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "19",
+      "status": "Currently Airing",
+      "studio": "White Fox",
+      "rating": 8.98,
+      "poster": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Suspense"
+      ]
+    },
+    {
+      "id": 951553,
+      "ru": "Tongari Boushi no Atelier",
+      "en": "Witch Hat Atelier",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "13",
+      "status": "Currently Airing",
+      "studio": "BUG FILMS",
+      "rating": 8.72,
+      "poster": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg",
+      "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 957779,
+      "ru": "Dorohedoro Season 2",
+      "en": "Dorohedoro Season 2",
+      "year": "2026",
+      "type": "ONA",
+      "episodes": "11",
+      "status": "Finished Airing",
+      "studio": "MAPPA",
+      "rating": 8.5,
+      "poster": "https://cdn.myanimelist.net/images/anime/1603/155354l.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": 963375,
+      "ru": "Nippon Sangoku",
+      "en": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Studio Kafka",
+      "rating": 8.49,
+      "poster": "https://cdn.myanimelist.net/images/anime/1623/156387l.jpg",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": 962568,
+      "ru": "Dr. Stone: Science Future Part 3",
+      "en": "Dr. Stone: Science Future Part 3",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "13",
+      "status": "Currently Airing",
+      "studio": "TMS Entertainment",
+      "rating": 8.28,
+      "poster": "https://cdn.myanimelist.net/images/anime/1773/155779l.jpg",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": 959983,
+      "ru": "Tsue to Tsurugi no Wistoria Season 2",
+      "en": "Wistoria: Wand and Sword Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Actas",
+      "rating": 8.23,
+      "poster": "https://cdn.myanimelist.net/images/anime/1190/155788l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 960310,
+      "ru": "Mairimashita! Iruma-kun 4th Season",
+      "en": "Welcome to Demon School! Iruma-kun Season 4",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "24",
+      "status": "Currently Airing",
+      "studio": "Bandai Namco Pictures",
+      "rating": 8.14,
+      "poster": "https://cdn.myanimelist.net/images/anime/1434/154048l.jpg",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 963130,
+      "ru": "Boku no Hero Academia: More",
+      "en": "My Hero Academia: More",
+      "year": "2026",
+      "type": "TV SPECIAL",
+      "episodes": "1",
+      "status": "Finished Airing",
+      "studio": "Bones Film",
+      "rating": 8.12,
+      "poster": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": 959970,
+      "ru": "Tensei shitara Slime Datta Ken 4th Season",
+      "en": "That Time I Got Reincarnated as a Slime Season 4",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "8bit",
+      "rating": 8.12,
+      "poster": "https://cdn.myanimelist.net/images/anime/1695/156389l.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 959708,
+      "ru": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "en": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "16",
+      "status": "Currently Airing",
+      "studio": "Lerche",
+      "rating": 8.03,
+      "poster": "https://cdn.myanimelist.net/images/anime/1176/153626l.jpg",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "id": 962001,
+      "ru": "Yomi no Tsugai",
+      "en": "Daemons of the Shadow Realm",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "24",
+      "status": "Currently Airing",
+      "studio": "Bones Film",
+      "rating": 7.97,
+      "poster": "https://cdn.myanimelist.net/images/anime/1171/156397l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": 956734,
+      "ru": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "en": "I Made Friends with the Second Prettiest Girl in My Class",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Connect",
+      "rating": 7.93,
+      "poster": "https://cdn.myanimelist.net/images/anime/1423/155713l.jpg",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
+      "id": 960852,
+      "ru": "Koori no Jouheki",
+      "en": "The Ramparts of Ice",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "Studio KAI",
+      "rating": 7.89,
+      "poster": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": 957466,
+      "ru": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+      "en": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "Wit Studio",
+      "rating": 7.89,
+      "poster": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
+      "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 961443,
+      "ru": "Shunkashuutou Daikousha: Haru no Mai",
+      "en": "Agents of the Four Seasons: Dance of Spring",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "14",
+      "status": "Currently Airing",
+      "studio": "Wit Studio",
+      "rating": 7.7,
+      "poster": "https://cdn.myanimelist.net/images/anime/1993/156385l.jpg",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 962604,
+      "ru": "Otaku ni Yasashii Gal wa Inai!?",
+      "en": "Gals Can't Be Kind to Otaku!?",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "TMS Entertainment",
+      "rating": 7.59,
+      "poster": "https://cdn.myanimelist.net/images/anime/1956/155456l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 962601,
+      "ru": "Marriagetoxin",
+      "en": "Marriagetoxin",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "13",
+      "status": "Currently Airing",
+      "studio": "Bones Film",
+      "rating": 7.54,
+      "poster": "https://cdn.myanimelist.net/images/anime/1927/154309l.jpg",
+      "genres": [
+        "Action",
+        "Comedy"
+      ]
+    },
+    {
+      "id": 956876,
+      "ru": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+      "en": "The Angel Next Door Spoils Me Rotten 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Project No.9",
+      "rating": 7.49,
+      "poster": "https://cdn.myanimelist.net/images/anime/1989/154843l.jpg",
+      "genres": [
+        "Romance"
+      ]
+    },
+    {
+      "id": 962146,
+      "ru": "Isekai Nonbiri Nouka 2",
+      "en": "Farming Life in Another World Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Zero-G",
+      "rating": 7.47,
+      "poster": "https://cdn.myanimelist.net/images/anime/1656/156369l.jpg",
+      "genres": [
+        "Fantasy",
+        "Slice of Life"
+      ]
+    },
+    {
+      "id": 961839,
+      "ru": "Aishiteru Game wo Owarasetai",
+      "en": "I Want to End This Love Game",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Felix Film",
+      "rating": 7.28,
+      "poster": "https://cdn.myanimelist.net/images/anime/1879/155958l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 961501,
+      "ru": "Kanan-sama wa Akumade Choroi",
+      "en": "Mistress Kanan is Devilishly Easy",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Studio KAI",
+      "rating": 6.93,
+      "poster": "https://cdn.myanimelist.net/images/anime/1681/154996l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Supernatural",
+        "Ecchi"
+      ]
+    },
+    {
+      "id": 960028,
+      "ru": "Himekishi wa Barbaroi no Yome",
+      "en": "The Warrior Princess and the Barbaric King",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Jumondou",
+      "rating": 6.84,
+      "poster": "https://cdn.myanimelist.net/images/anime/1229/155022l.jpg",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 962331,
+      "ru": "Liar Game",
+      "en": "Liar Game",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "Madhouse",
+      "rating": 6.32,
+      "poster": "https://cdn.myanimelist.net/images/anime/1607/156078l.jpg",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "id": 961831,
+      "ru": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "en": "The Beginning After the End Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Currently Airing",
+      "studio": "Studio A-CAT",
+      "rating": 5.72,
+      "poster": "https://cdn.myanimelist.net/images/anime/1738/156028l.jpg",
+      "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 961987,
+      "ru": "Kusuriya no Hitorigoto 3rd Season",
+      "en": "The Apothecary Diaries Season 3",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1862/152811l.jpg",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": 961967,
+      "ru": "Black Clover 2nd Season",
+      "en": "Black Clover Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Studio Pierrot",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1717/154518l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 960636,
+      "ru": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "en": "Bleach: Thousand-Year Blood War - The Calamity",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Pierrot Films",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1653/154517l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": 959193,
+      "ru": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Studio Bind",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Ecchi"
+      ]
+    },
+    {
+      "id": 954000,
+      "ru": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+      "en": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "ENGI",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 953913,
+      "ru": "Tensei shitara Ken deshita 2",
+      "en": "Reincarnated as a Sword Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "C2C",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1955/150906l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 949233,
+      "ru": "Youjo Senki II",
+      "en": "Saga of Tanya the Evil II",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Nut",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1133/156346l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 948820,
+      "ru": "Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten",
+      "en": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "1",
+      "status": "Not yet aired",
+      "studio": "Shaft",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1784/151057l.jpg",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ]
+    },
     {
       "id": 950001,
       "ru": "Запретный крот",
@@ -12,7 +650,142 @@
       "studio": "",
       "rating": 0,
       "poster": "",
-      "genres": ["Мистика", "Сверхъестественное"]
+      "genres": [
+        "Мистика",
+        "Сверхъестественное"
+      ]
+    },
+    {
+      "id": 963147,
+      "ru": "Gachiakuta 2nd Season",
+      "en": "Gachiakuta Season 2",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 963143,
+      "ru": "Chainsaw Man: Shikaku-hen",
+      "en": "Chainsaw Man: Assassins Arc",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 962546,
+      "ru": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
+      "en": "Demon Slayer: Kimetsu no Yaiba - The Movie 2: Infinity Castle",
+      "year": "",
+      "type": "Фильм",
+      "episodes": "1",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": 961990,
+      "ru": "Cyberpunk: Edgerunners 2",
+      "en": "Cyberpunk: Edgerunners 2",
+      "year": "",
+      "type": "ONA",
+      "episodes": "10",
+      "status": "Not yet aired",
+      "studio": "Trigger",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": 961203,
+      "ru": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+      "en": "KonoSuba: God's Blessing on This Wonderful World! 4",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1067/154983l.jpg",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 961006,
+      "ru": "Bocchi the Rock! 2nd Season",
+      "en": "Bocchi the Rock! Season 2",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "CloverWorks",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1142/148003l.jpg",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": 959139,
+      "ru": "Tsuki ga Michibiku Isekai Douchuu 3rd Season",
+      "en": "Tsukimichi -Moonlit Fantasy- Season 3",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1055/143718l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 959068,
+      "ru": "Dungeon Meshi 2nd Season",
+      "en": "Delicious in Dungeon Season 2",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Gourmet"
+      ]
     }
   ]
 }
