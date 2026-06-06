@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "anime": [
+    {
+      "id": 950001,
+      "ru": "Запретный крот",
+      "en": "Dekin no Mogura: The Earthbound Mole",
+      "year": "2025",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": ["Мистика", "Сверхъестественное"]
+    }
+  ]
+}
