@@ -1,0 +1,33 @@
+name: Update anime list
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-anime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update anime_updates.json
+        run: python tools/update_anime_updates.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "anime-updater-bot"
+          git config user.email "anime-updater-bot@users.noreply.github.com"
+          git add anime_updates.json
+          git diff --cached --quiet || git commit -m "Update anime list"
+          git push
