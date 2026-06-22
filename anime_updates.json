@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "anime": [
     {
       "id": 963816,
@@ -297,6 +297,21 @@
         "Action",
         "Adventure",
         "Supernatural"
+      ]
+    },
+    {
+      "id": 962164,
+      "ru": "Akane-banashi",
+      "en": "Akane-banashi",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "12",
+      "status": "Finished Airing",
+      "studio": "Zexcs",
+      "rating": 7.94,
+      "poster": "https://cdn.myanimelist.net/images/anime/1162/155669l.jpg",
+      "genres": [
+        "Drama"
       ]
     },
     {
