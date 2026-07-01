@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "anime": [
     {
       "id": 963816,
@@ -151,6 +151,21 @@
       "poster": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg",
       "genres": [
         "Fantasy"
+      ]
+    },
+    {
+      "id": 962076,
+      "ru": "Super no Ura de Yani Suu Futari",
+      "en": "Smoking Behind the Supermarket with You",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "Asahi Production",
+      "rating": 8.52,
+      "poster": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
+      "genres": [
+        "Romance"
       ]
     },
     {
@@ -523,6 +538,131 @@
       ]
     },
     {
+      "id": 963832,
+      "ru": "Seihantai na Kimi to Boku 2nd Season",
+      "en": "You and I Are Polar Opposites Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Lapin Track",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 963817,
+      "ru": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+      "en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Yokohama Animation Lab",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 963403,
+      "ru": "Yani Neko",
+      "en": "Chainsmoker Cat",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Bibury Animation Studios",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": 962856,
+      "ru": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "en": "Sparks of Tomorrow",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Kyoto Animation",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": 962811,
+      "ru": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+      "en": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Bibury Animation Studios",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 962542,
+      "ru": "Grand Blue Season 3",
+      "en": "Grand Blue Dreaming Season 3",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Zero-G",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": 962513,
+      "ru": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "en": "Clevatess Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Lay-duce",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 962312,
+      "ru": "Sekiro: No Defeat",
+      "en": "Sekiro: No Defeat",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "1",
+      "status": "Not yet aired",
+      "studio": "Qzil.la",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1944/157379l.jpg",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
       "id": 961987,
       "ru": "Kusuriya no Hitorigoto 3rd Season",
       "en": "The Apothecary Diaries Season 3",
@@ -555,6 +695,87 @@
       ]
     },
     {
+      "id": 961897,
+      "ru": "Katainaka no Ossan, Kensei ni Naru II",
+      "en": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Passione",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1100/157173l.jpg",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 961607,
+      "ru": "Shiguang Dailiren III",
+      "en": "Link Click Season 3",
+      "year": "2026",
+      "type": "ONA",
+      "episodes": "12",
+      "status": "Not yet aired",
+      "studio": "CMC Media",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1801/158559l.jpg",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Suspense"
+      ]
+    },
+    {
+      "id": 961240,
+      "ru": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "en": "Though I Am an Inept Villainess",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Doga Kobo",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1958/158341l.jpg",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": 961169,
+      "ru": "Black Torch",
+      "en": "Black Torch",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "100studio",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ]
+    },
+    {
+      "id": 961126,
+      "ru": "Kimi ga Shinu made Koi wo Shitai",
+      "en": "I Want to Love You Till Your Dying Day",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "ROLL2",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg",
+      "genres": [
+        "Fantasy",
+        "Girls Love"
+      ]
+    },
+    {
       "id": 960636,
       "ru": "Bleach: Sennen Kessen-hen - Kashin-tan",
       "en": "Bleach: Thousand-Year Blood War - The Calamity",
@@ -569,6 +790,56 @@
         "Action",
         "Adventure",
         "Supernatural"
+      ]
+    },
+    {
+      "id": 960522,
+      "ru": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "en": "Skeleton Knight in Another World II",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Aura Studio",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 960059,
+      "ru": "Nige Jouzu no Wakagimi 2nd Season",
+      "en": "The Elusive Samurai Season 2",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "CloverWorks",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1289/156329l.jpg",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": 959741,
+      "ru": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "en": "The Exiled Heavy Knight Knows How to Game the System",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "GoHands",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ]
     },
     {
@@ -587,6 +858,24 @@
         "Drama",
         "Fantasy",
         "Ecchi"
+      ]
+    },
+    {
+      "id": 958929,
+      "ru": "Koukaku Kidoutai (TV)",
+      "en": "The Ghost in the Shell",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Science SARU",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1143/158717l.jpg",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Sci-Fi",
+        "Suspense"
       ]
     },
     {
