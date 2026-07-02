@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "anime": [
     {
       "id": 963816,
@@ -725,6 +725,21 @@
         "Drama",
         "Mystery",
         "Suspense"
+      ]
+    },
+    {
+      "id": 961483,
+      "ru": "Tenmaku no Jaadugar",
+      "en": "Jaadugar: A Witch in Mongolia",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "Science SARU",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1368/158227l.jpg",
+      "genres": [
+        "Drama"
       ]
     },
     {
