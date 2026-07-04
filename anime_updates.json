@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "anime": [
     {
       "id": 963816,
@@ -504,6 +504,23 @@
         "Comedy",
         "Fantasy",
         "Romance"
+      ]
+    },
+    {
+      "id": 963508,
+      "ru": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "en": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "EMT Squared",
+      "rating": 6.76,
+      "poster": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
       ]
     },
     {
