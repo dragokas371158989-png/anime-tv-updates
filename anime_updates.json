@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "anime": [
     {
       "id": 963816,
@@ -390,6 +390,22 @@
         "Drama",
         "Fantasy",
         "Romance"
+      ]
+    },
+    {
+      "id": 963150,
+      "ru": "Otome Kaijuu Caraméliser",
+      "en": "Kaiju Girl Caramelise",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "LIDENFILMS",
+      "rating": 7.66,
+      "poster": "https://cdn.myanimelist.net/images/anime/1981/156340l.jpg",
+      "genres": [
+        "Romance",
+        "Supernatural"
       ]
     },
     {
