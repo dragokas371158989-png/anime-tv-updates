@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "anime": [
     {
       "id": 963816,
@@ -373,6 +373,22 @@
       "poster": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
       "genres": [
         "Fantasy"
+      ]
+    },
+    {
+      "id": 962936,
+      "ru": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "en": "Love Unseen Beneath the Clear Night Sky",
+      "year": "2026",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Currently Airing",
+      "studio": "Makaria",
+      "rating": 7.82,
+      "poster": "https://cdn.myanimelist.net/images/anime/1145/158339l.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1005,6 +1021,21 @@
       "genres": [
         "Мистика",
         "Сверхъестественное"
+      ]
+    },
+    {
+      "id": 963794,
+      "ru": "[Oshi no Ko] 4th Season",
+      "en": "[Oshi No Ko] Season 4",
+      "year": "",
+      "type": "ТВ-сериал",
+      "episodes": "",
+      "status": "Not yet aired",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "genres": [
+        "Drama"
       ]
     },
     {
