@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "anime": [
     {
       "id": 963816,
@@ -940,6 +940,25 @@
         "Mystery",
         "Sci-Fi",
         "Suspense"
+      ]
+    },
+    {
+      "id": 954250,
+      "ru": "Made in Abyss: Mezameru Shinpi",
+      "en": "Made in Abyss: Mezameru Shinpi",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "1",
+      "status": "Not yet aired",
+      "studio": "Kinema Citrus",
+      "rating": 0,
+      "poster": "https://cdn.myanimelist.net/images/anime/1444/156382l.jpg",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi"
       ]
     },
     {
